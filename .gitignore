@@ -1,0 +1,3 @@
+# .gitignore
+simulation/pretrained_models/*.pt
+
